@@ -14,7 +14,7 @@ open pull requests to update this list!
 | [`react-leaflet-bing`](https://www.npmjs.com/package/react-leaflet-bing) | unknown
 | [`react-leaflet-choropleth`](https://www.npmjs.com/package/react-leaflet-choropleth) | unknown
 | [`react-leaflet-cluster-layer`](https://www.npmjs.com/package/react-leaflet-cluster-layer) | unknown
-| [`react-leaflet-control`](https://www.npmjs.com/package/react-leaflet-control) | unknown
+| [`react-leaflet-control`](https://www.npmjs.com/package/react-leaflet-control) | **no**
 | [`react-leaflet-d3`](https://www.npmjs.com/package/react-leaflet-d3) | unknown
 | [`react-leaflet-deflate`](https://www.npmjs.com/package/react-leaflet-deflate) | unknown
 | [`react-leaflet-distance-marker`](https://www.npmjs.com/package/react-leaflet-distance-marker) | unknown
@@ -27,7 +27,7 @@ open pull requests to update this list!
 | [`react-leaflet-google`](https://www.npmjs.com/package/react-leaflet-google) | unknown
 | [`react-leaflet-heatmap-layer`](https://www.npmjs.com/package/react-leaflet-heatmap-layer) | unknown
 | [`react-leaflet-locate-control`](https://www.npmjs.com/package/react-leaflet-locate-control) | unknown
-| [`react-leaflet-markercluster`](https://www.npmjs.com/package/react-leaflet-markercluster) | unknown
+| [`react-leaflet-markercluster`](https://www.npmjs.com/package/react-leaflet-markercluster) | **yes**
 | [`react-leaflet-marker-layer`](https://www.npmjs.com/package/react-leaflet-marker-layer) | unknown
 | [`react-leaflet-measure`](https://www.npmjs.com/package/react-leaflet-measure) | unknown
 | [`react-leaflet-nmscale`](https://www.npmjs.com/package/@marfle/react-leaflet-nmscale) | **yes**
